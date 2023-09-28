@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=JetBrains Idea
+Exec=/home/raunits/apps/idea/bin/idea.sh
+Icon=/home/raunits/apps/idea/bin/idea.png

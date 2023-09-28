@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=JetBrains Webstorm
+Exec=/home/raunits/apps/webstorm/bin/webstorm.sh
+Icon=/home/raunits/apps/webstorm/bin/webstorm.png
